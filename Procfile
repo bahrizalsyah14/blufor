@@ -1,1 +1,1 @@
-gunicorn Financial_Shield_Early_Warning_Predictions_for_BLU_Revenue_Resilience:app
+web: gunicorn Financial_Shield_Early_Warning_Predictions_for_BLU_Revenue_Resilience:app
