@@ -1,6 +1,10 @@
-pandas
-scikit-learn
-dash
-gunicorn
-plotly
 numpy
+pandas
+python-dateutil
+pytz
+six
+tzdata
+Cython
+scikit-learn
+plotly
+dash
