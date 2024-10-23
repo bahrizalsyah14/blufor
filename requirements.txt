@@ -8,3 +8,4 @@ Cython
 scikit-learn
 plotly
 dash
+gunicorn
