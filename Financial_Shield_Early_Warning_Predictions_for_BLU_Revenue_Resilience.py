@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 
 # 1. Persiapan Data
 # Baca data dari file CSV
-data = pd.read_csv('D:/Rizal/DDAC/data_blu.csv', sep=';')
+data = pd.read_csv('blufor/data_blu.csv', sep=';')
 
 # Fitur yang akan digunakan untuk prediksi (variabel independen)
 features = ['BI_Rate', 'Inflasi_maret', 'Tingkat_Kemiskinan', 'Tingkat_Pengangguran', 
